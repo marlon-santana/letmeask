@@ -113,10 +113,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-<a href="https://marconwillian.dev/">
+<a href="https://github.com/marlon-santana">
  <img style="border-radius: 50%;" src="https://github.com/MarconWillian.png" width="100px;" alt=""/>
  <br />
- <sub><b>Marcon Willian</b></sub></a> <a href="https://marconwillian.dev/" title="Marcon Willian">🚀</a>
+ <sub><Marlon santana</b></sub></a> <a href="https://marconwillian.dev/" title="Marlon santana">🚀</a>
  <br />
 
 [![Twitter Badge](https://img.shields.io/badge/-@marconwillian-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marconwillian)](https://twitter.com/marconwillian) [![Linkedin Badge](https://img.shields.io/badge/-Marcon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marconwillian/)](https://www.linkedin.com/in/marconwillian/) 
